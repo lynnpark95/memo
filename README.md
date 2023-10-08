@@ -1,2 +1,3 @@
 # memo
-Super simple full stack memo page including CRUD & REST API using FastAPI
+
+Created a super simple full-stack memo page that includes CRUD operations and a REST API using FastAPI.
