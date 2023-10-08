@@ -1,2 +1,2 @@
 # memo
-Super simple full stack memo page including CRUD using FastAPI
+Super simple full stack memo page including CRUD & REST API using FastAPI
